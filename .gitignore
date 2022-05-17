@@ -1,2 +1,5 @@
-#Local development environment
+# Local development environment
 env/ 
+
+# Raw wildfire data
+/WildfireData.zip
