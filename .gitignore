@@ -2,4 +2,4 @@
 env/ 
 
 # Raw wildfire data
-/WildfireData.zip
+data/
