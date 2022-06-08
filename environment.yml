@@ -7,4 +7,5 @@ dependencies:
   - scikit-learn
   - matplotlib
   - jupyter
+  - geopandas
 prefix: C:\Users\tfrog\OneDrive\Documents\WGU\Capstone\WildfirePredictionProject\env
