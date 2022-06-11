@@ -1,6 +1,7 @@
 name: C:\Users\tfrog\OneDrive\Documents\WGU\Capstone\WildfirePredictionProject\env
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - pandas
   - numpy
@@ -8,4 +9,5 @@ dependencies:
   - matplotlib
   - jupyter
   - geopandas
+  - appmode
 prefix: C:\Users\tfrog\OneDrive\Documents\WGU\Capstone\WildfirePredictionProject\env
