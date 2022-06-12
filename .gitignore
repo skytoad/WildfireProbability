@@ -1,5 +1,2 @@
 # Local development environment
 env/ 
-
-# Raw and cleaned wildfire data
-data/
