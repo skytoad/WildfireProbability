@@ -10,4 +10,5 @@ dependencies:
   - jupyter
   - geopandas
   - appmode
+  - ipywidgets
 prefix: C:\Users\tfrog\OneDrive\Documents\WGU\Capstone\WildfirePredictionProject\env
